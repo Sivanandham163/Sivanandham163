@@ -1,6 +1,6 @@
 <img align="centre" height="300" width="1000" src=https://previews.123rf.com/images/tashatuvango/tashatuvango1805/tashatuvango180500006/100934141-python-developer-hiring-now-3d-.jpg>
 <h1 align="center">Hi 👋, I'm Siva Nanandham</h1>
-<h3 align="center">A Student from mechanical background to passionate in python and curious in learning web developer from Government College of Technology</h3>
+<h3 align="center">A Student from mechanical background to passionate in python and curious in learning Programming from Government College of Technology</h3>
 <img align="centre" alt="coding"height="400" width="1000" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanandham163&label=Profile%20views&color=0e75b6&style=flat" alt="sivanandham163" /> </p>
